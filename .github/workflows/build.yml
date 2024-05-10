@@ -1,6 +1,4 @@
 on:
-  watch:
-    types: started
 jobs:
   prepare_release:
     runs-on: ubuntu-20.04
