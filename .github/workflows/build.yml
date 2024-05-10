@@ -1,5 +1,4 @@
 on:
-  watch:
     types: started
 jobs:
   prepare_release:
